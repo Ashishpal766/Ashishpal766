@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish pal" target="https://www.linkedin.com/in/ashish-pal-803b072a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://linkedin.com/in/ashish pal" target=>
   
 </p>
 
